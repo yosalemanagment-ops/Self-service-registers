@@ -14,11 +14,6 @@
             "required": false,
             "items": [
               {
-                "name": "בדיקת היסטוריה",
-                "price": 0.00,
-                "active": true
-              },
-              {
                 "name": "חמאת בוטנים",
                 "price": 5.00,
                 "active": true
