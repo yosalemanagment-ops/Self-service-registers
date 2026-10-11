@@ -21,12 +21,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -228,9 +228,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -306,12 +311,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -518,9 +523,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -549,12 +559,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב לוטוס",
@@ -751,9 +761,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -818,12 +833,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -1035,9 +1050,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -1097,12 +1117,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -1299,9 +1319,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -1528,9 +1553,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -1550,12 +1580,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -1640,12 +1670,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -1852,9 +1882,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -1909,12 +1944,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -2116,9 +2151,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -2173,12 +2213,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -2375,9 +2415,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -2442,12 +2487,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -2649,9 +2694,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -2711,12 +2761,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -2918,9 +2968,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -2980,12 +3035,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -3197,9 +3252,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -3244,12 +3304,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -3456,9 +3516,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -3513,12 +3578,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -3725,9 +3790,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -3760,7 +3830,7 @@
       },
       {
         "name": "קרפ רפאלו",
-        "price": 39.00,
+        "price": 42.00,
         "active": true,
         "soldOut": false,
         "description": "קרפ בזיגוג שוקולד לבן, שוקולד רפאלו וקוקוס קלוי",
@@ -3777,12 +3847,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -3984,9 +4054,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -4051,12 +4126,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -4258,9 +4333,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -4320,12 +4400,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב לוטוס",
@@ -4522,9 +4602,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -4589,12 +4674,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -4806,9 +4891,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -4863,12 +4953,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -5070,9 +5160,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -5299,9 +5394,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -5321,12 +5421,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -5411,12 +5511,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -5623,9 +5723,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -5680,12 +5785,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -5887,9 +5992,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -5949,12 +6059,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -6151,9 +6261,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -6218,12 +6333,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -6440,9 +6555,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -6487,12 +6607,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -6684,9 +6804,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -6751,12 +6876,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -6958,9 +7083,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -7020,12 +7150,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -7232,9 +7362,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -7289,12 +7424,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -7501,9 +7636,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -7558,12 +7698,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -7765,9 +7905,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -7827,12 +7972,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -8034,9 +8179,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -8268,9 +8418,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -8290,12 +8445,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -8380,12 +8535,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -8587,9 +8742,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -8660,12 +8820,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -8877,9 +9037,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -8908,12 +9073,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב לוטוס",
@@ -9110,9 +9275,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -9334,9 +9504,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -9351,12 +9526,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -9613,9 +9788,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -9635,12 +9815,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -9725,12 +9905,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -9937,9 +10117,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -9994,12 +10179,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -10206,9 +10391,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -10274,12 +10464,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -10486,9 +10676,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -10517,12 +10712,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -10719,9 +10914,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -10786,12 +10986,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -11008,9 +11208,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -11055,12 +11260,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -11262,9 +11467,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -11324,12 +11534,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -11536,9 +11746,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -11593,12 +11808,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -11805,9 +12020,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -11862,12 +12082,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -12069,9 +12289,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -12131,12 +12356,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -12338,9 +12563,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -12405,12 +12635,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -12612,9 +12842,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -12679,12 +12914,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -12886,9 +13121,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -12948,12 +13188,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -13145,9 +13385,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -13379,9 +13624,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -13401,12 +13651,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -13653,9 +13903,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -13675,12 +13930,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -13760,29 +14015,7 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, רוטב הרשיז, שבבי אוראו, עוגיות אוראו",
-        "groups": [
-          {
-            "name": "ניתן להסיר",
-            "required": false,
-            "items": [
-              {
-                "name": "ללא עוגיות אוראו",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא רוטב הרשיז",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שבבי אוראו",
-                "price": 0.00,
-                "active": true
-              }
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "name": "מילקשייק לוטוס",
@@ -13790,29 +14023,7 @@
         "active": true,
         "soldOut": false,
         "description": "שבבי לוטוס, שוקולד לבן, רוטב לוטוס",
-        "groups": [
-          {
-            "name": "ניתן להסיר",
-            "required": false,
-            "items": [
-              {
-                "name": "ללא רוטב לוטוס",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שבבי לוטוס",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              }
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "name": "מילקשייק מקופלת",
@@ -13820,44 +14031,7 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, שוקולד חלב, שוקולד לבן, שבבי מקופלת שוקולד לבן, שבבי מקופלת שוקולד חלב",
-        "groups": [
-          {
-            "name": "ניתן להסיר",
-            "required": false,
-            "items": [
-              {
-                "name": "ללא מקופלת שוקולד",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא מקופלת שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא רוטב שוקולד חלב",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שבבי מקופלת שוקולד חלב",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שבבי מקופלת שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              }
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "name": "מילקשייק ריבת חלב",
@@ -13865,34 +14039,7 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, שוקולד לבן, ריבת חלב, קורנפלקס בציפוי שוקולד לבן",
-        "groups": [
-          {
-            "name": "ניתן להסיר",
-            "required": false,
-            "items": [
-              {
-                "name": "ללא קורנפלקס בציפוי שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא רוטב ריבת חלב",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא ריבת חלב",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              }
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "name": "מילקשייק תות",
@@ -13900,29 +14047,7 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, תותים, שוקולד לבן, רוטב תותים",
-        "groups": [
-          {
-            "name": "ניתן להסיר",
-            "required": false,
-            "items": [
-              {
-                "name": "ללא רוטב תותים",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "ללא תותים",
-                "price": 0.00,
-                "active": true
-              }
-            ]
-          }
-        ]
+        "groups": []
       },
       {
         "name": "פנקייק דובאי",
@@ -14105,9 +14230,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -14127,12 +14257,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -14359,9 +14489,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -14381,12 +14516,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -14516,9 +14651,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -14538,12 +14678,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -14896,9 +15036,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -14918,12 +15063,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -14991,7 +15136,7 @@
       },
       {
         "name": "קרפ יוסל'ה",
-        "price": 40.00,
+        "price": 42.00,
         "active": true,
         "soldOut": false,
         "description": "קרפ בזיגוג שוקולד לבן, רוטב פיסטוק, שוקולד קינדר ופניני שוקולד",
@@ -15160,9 +15305,14 @@
             ]
           },
           {
-            "name": "קצפת",
-            "required": false,
+            "name": "גלידה או קצפת",
+            "required": true,
             "items": [
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 10.00,
+                "active": true
+              },
               {
                 "name": "קצפת",
                 "price": 10.00,
@@ -15182,12 +15332,12 @@
               {
                 "name": "טחינה",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "סילאן",
                 "price": 5.00,
-                "active": false
+                "active": true
               },
               {
                 "name": "רוטב בייגלה מלוח",
@@ -15524,26 +15674,21 @@
         "description": "יוגורט המגיע עם 6 תוספות לבחירה",
         "groups": [
           {
-            "name": "תוספות לבחירה (עד 6)",
+            "name": "תוספות",
             "required": false,
             "items": [
-              {
-                "name": "אבטיח",
-                "price": 0.00,
-                "active": true
-              },
               {
                 "name": "אגוזי לוז מסוכרים",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "אננס",
+                "name": "בייגלה מצופה שוקולד חום",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "בננה",
+                "name": "בייגלה מצופה שוקולד לבן",
                 "price": 0.00,
                 "active": true
               },
@@ -15554,11 +15699,6 @@
               },
               {
                 "name": "דובוני גומי",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "מלון",
                 "price": 0.00,
                 "active": true
               },
@@ -15593,22 +15733,38 @@
                 "active": true
               },
               {
+                "name": "שבבי אוראו",
+                "price": 0.00,
+                "active": true
+              }
+            ]
+          },
+          {
+            "name": "פירות",
+            "required": false,
+            "items": [
+              {
+                "name": "אבטיח",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "אננס",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "בננה",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "מלון",
+                "price": 0.00,
+                "active": true
+              },
+              {
                 "name": "קיווי",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד אגוזי לוז",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד קינדר",
                 "price": 0.00,
                 "active": true
               },
@@ -15625,21 +15781,21 @@
             ]
           },
           {
-            "name": "תוספות",
+            "name": "רטבים",
             "required": false,
             "items": [
               {
-                "name": "בייגלה מצופה שוקולד חום",
+                "name": "רוטב שוקולד אגוזי לוז",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "בייגלה מצופה שוקולד לבן",
+                "name": "רוטב שוקולד לבן",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "שבבי אוראו",
+                "name": "רוטב שוקולד קינדר",
                 "price": 0.00,
                 "active": true
               }
@@ -15655,26 +15811,21 @@
         "description": "יוגורט המגיע עם 6 תוספות לבחירה",
         "groups": [
           {
-            "name": "תוספות לבחירה (עד 6)",
+            "name": "תוספות",
             "required": false,
             "items": [
-              {
-                "name": "אבטיח",
-                "price": 0.00,
-                "active": true
-              },
               {
                 "name": "אגוזי לוז מסוכרים",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "אננס",
+                "name": "בייגלה מצופה שוקולד חום",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "בננה",
+                "name": "בייגלה מצופה שוקולד לבן",
                 "price": 0.00,
                 "active": true
               },
@@ -15685,11 +15836,6 @@
               },
               {
                 "name": "דובוני גומי",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "מלון",
                 "price": 0.00,
                 "active": true
               },
@@ -15724,22 +15870,38 @@
                 "active": true
               },
               {
+                "name": "שבבי אוראו",
+                "price": 0.00,
+                "active": true
+              }
+            ]
+          },
+          {
+            "name": "פירות",
+            "required": false,
+            "items": [
+              {
+                "name": "אבטיח",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "אננס",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "בננה",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "מלון",
+                "price": 0.00,
+                "active": true
+              },
+              {
                 "name": "קיווי",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד אגוזי לוז",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד לבן",
-                "price": 0.00,
-                "active": true
-              },
-              {
-                "name": "רוטב שוקולד קינדר",
                 "price": 0.00,
                 "active": true
               },
@@ -15756,21 +15918,21 @@
             ]
           },
           {
-            "name": "תוספות",
+            "name": "רטבים",
             "required": false,
             "items": [
               {
-                "name": "בייגלה מצופה שוקולד חום",
+                "name": "רוטב שוקולד אגוזי לוז",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "בייגלה מצופה שוקולד לבן",
+                "name": "רוטב שוקולד לבן",
                 "price": 0.00,
                 "active": true
               },
               {
-                "name": "שבבי אוראו",
+                "name": "רוטב שוקולד קינדר",
                 "price": 0.00,
                 "active": true
               }
@@ -16186,6 +16348,42 @@
         "soldOut": false,
         "description": null,
         "groups": []
+      }
+    ]
+  },
+  {
+    "category": "קטגוריה בדיקה",
+    "products": [
+      {
+        "name": "מנת בדיקה",
+        "price": 30.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": [
+          {
+            "name": "טופינגז",
+            "required": false,
+            "items": [
+              {
+                "name": "אגוזי לוז מסוכרים",
+                "price": 6.00,
+                "active": true
+              }
+            ]
+          },
+          {
+            "name": "רטבים",
+            "required": false,
+            "items": [
+              {
+                "name": "חמאת בוטנים",
+                "price": 5.00,
+                "active": true
+              }
+            ]
+          }
+        ]
       }
     ]
   }
