@@ -16350,45 +16350,5 @@
         "groups": []
       }
     ]
-  },
-  {
-    "category": "עופרי",
-    "products": []
-  },
-  {
-    "category": "קטגוריה בדיקה",
-    "products": [
-      {
-        "name": "מנת בדיקה",
-        "price": 30.00,
-        "active": true,
-        "soldOut": false,
-        "description": null,
-        "groups": [
-          {
-            "name": "טופינגז",
-            "required": false,
-            "items": [
-              {
-                "name": "אגוזי לוז מסוכרים",
-                "price": 6.00,
-                "active": true
-              }
-            ]
-          },
-          {
-            "name": "רטבים",
-            "required": false,
-            "items": [
-              {
-                "name": "חמאת בוטנים",
-                "price": 5.00,
-                "active": true
-              }
-            ]
-          }
-        ]
-      }
-    ]
   }
 ]
