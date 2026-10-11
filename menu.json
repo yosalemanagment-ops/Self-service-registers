@@ -16356,11 +16356,11 @@
     "products": []
   },
   {
-    "category": "קטגוריה אייפד",
+    "category": "קטגוריה בדיקה",
     "products": [
       {
-        "name": "מנת אייפד",
-        "price": 25.00,
+        "name": "מנת בדיקה",
+        "price": 30.00,
         "active": true,
         "soldOut": false,
         "description": null,
@@ -16372,6 +16372,17 @@
               {
                 "name": "אגוזי לוז מסוכרים",
                 "price": 6.00,
+                "active": true
+              }
+            ]
+          },
+          {
+            "name": "רטבים",
+            "required": false,
+            "items": [
+              {
+                "name": "חמאת בוטנים",
+                "price": 5.00,
                 "active": true
               }
             ]
