@@ -16350,5 +16350,18 @@
         "groups": []
       }
     ]
+  },
+  {
+    "category": "בדיקת סל",
+    "products": [
+      {
+        "name": "מנה סל א",
+        "price": 20.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": []
+      }
+    ]
   }
 ]
