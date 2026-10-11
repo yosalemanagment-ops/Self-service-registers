@@ -16356,15 +16356,7 @@
     "products": [
       {
         "name": "מנה סל א",
-        "price": 20.00,
-        "active": true,
-        "soldOut": false,
-        "description": null,
-        "groups": []
-      },
-      {
-        "name": "מנה סל ב",
-        "price": 15.00,
+        "price": 22.00,
         "active": true,
         "soldOut": false,
         "description": null,
