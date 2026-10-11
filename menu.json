@@ -16354,5 +16354,18 @@
   {
     "category": "עופרי",
     "products": []
+  },
+  {
+    "category": "בדיקה חיה",
+    "products": [
+      {
+        "name": "מנה חיה",
+        "price": 20.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": []
+      }
+    ]
   }
 ]
