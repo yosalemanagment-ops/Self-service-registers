@@ -16352,14 +16352,14 @@
     ]
   },
   {
-    "category": "קטגוריה אייפד",
+    "category": "עופרי",
     "products": [
       {
-        "name": "מנת אייפד",
-        "price": 25.00,
+        "name": "עופרי",
+        "price": 50.00,
         "active": true,
         "soldOut": false,
-        "description": null,
+        "description": "עופרי",
         "groups": [
           {
             "name": "טופינגז",
@@ -16367,6 +16367,31 @@
             "items": [
               {
                 "name": "אגוזי לוז מסוכרים",
+                "price": 6.00,
+                "active": true
+              },
+              {
+                "name": "בייגלה מצופה שוקולד חום",
+                "price": 6.00,
+                "active": true
+              },
+              {
+                "name": "בייגלה מצופה שוקולד לבן",
+                "price": 6.00,
+                "active": true
+              },
+              {
+                "name": "גלידה וניל אמריקאית",
+                "price": 0.00,
+                "active": true
+              },
+              {
+                "name": "גרנולה",
+                "price": 6.00,
+                "active": true
+              },
+              {
+                "name": "דובוני גומי",
                 "price": 6.00,
                 "active": true
               }
