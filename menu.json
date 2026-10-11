@@ -16350,5 +16350,30 @@
         "groups": []
       }
     ]
+  },
+  {
+    "category": "קטגוריה אייפד",
+    "products": [
+      {
+        "name": "מנת אייפד",
+        "price": 25.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": [
+          {
+            "name": "טופינגז",
+            "required": false,
+            "items": [
+              {
+                "name": "אגוזי לוז מסוכרים",
+                "price": 6.00,
+                "active": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ]
