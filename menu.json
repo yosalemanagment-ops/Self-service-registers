@@ -15,6 +15,12 @@
             "freeOnlyForDineIn": false,
             "items": [
               {
+                "name": "דבש",
+                "price": 6.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "חמאת בוטנים",
                 "price": 5.00,
                 "active": true,
