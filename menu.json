@@ -18998,6 +18998,12 @@
                 "onlyFor": null
               },
               {
+                "name": "רוטב שום",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "תירס",
                 "price": 6.00,
                 "active": true,
