@@ -18956,6 +18956,12 @@
                 "onlyFor": null
               },
               {
+                "name": "בדיקה זעתר",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "בצל ירוק",
                 "price": 6.00,
                 "active": true,
