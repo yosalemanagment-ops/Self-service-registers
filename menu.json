@@ -19273,26 +19273,10 @@
       },
       {
         "name": "שוקו חם",
-        "price": 16.00,
+        "price": 0.00,
         "active": true,
         "soldOut": false,
         "description": "שוקולד וחלב חם",
-        "groups": []
-      },
-      {
-        "name": "שוקו חם עם מרשמלו",
-        "price": 18.00,
-        "active": true,
-        "soldOut": false,
-        "description": "שוקולד וחלב חם עם מרשמלו",
-        "groups": []
-      },
-      {
-        "name": "שוקו קטן",
-        "price": 14.00,
-        "active": true,
-        "soldOut": false,
-        "description": null,
         "groups": [
           {
             "name": "גודל",
@@ -19314,6 +19298,14 @@
             ]
           }
         ]
+      },
+      {
+        "name": "שוקו חם עם מרשמלו",
+        "price": 18.00,
+        "active": true,
+        "soldOut": false,
+        "description": "שוקולד וחלב חם עם מרשמלו",
+        "groups": []
       },
       {
         "name": "תה נענע",
