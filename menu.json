@@ -19004,6 +19004,19 @@
                 "onlyFor": null
               }
             ]
+          },
+          {
+            "name": "רטבים",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "רוטב בדיקה",
+                "price": 2.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
           }
         ]
       },
