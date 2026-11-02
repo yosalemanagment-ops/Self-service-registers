@@ -19165,6 +19165,34 @@
         "soldOut": false,
         "description": "אייס קפה בתוספת שבבי פקנים מסוכרים",
         "groups": []
+      },
+      {
+        "name": "קפה קר",
+        "price": 0.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": [
+          {
+            "name": "גודל",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "גדול",
+                "price": 20.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
+                "name": "קטן",
+                "price": 15.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
+          }
+        ]
       }
     ]
   },
