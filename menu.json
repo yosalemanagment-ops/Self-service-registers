@@ -2941,7 +2941,7 @@
         "price": 39.00,
         "active": true,
         "soldOut": false,
-        "description": "קרפ בזיגוג מרשמלו, שוקולד לבן ושבבי מרשמלו",
+        "description": "קרפ בזיגוג מרשמלו, שוקולד לבן ומרשמלו",
         "groups": [
           {
             "name": "רטבים",
@@ -3242,12 +3242,6 @@
               },
               {
                 "name": "ללא רוטב שוקולד לבן",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "ללא שבבי מרשמלו",
                 "price": 0.00,
                 "active": true,
                 "onlyFor": null
@@ -18998,6 +18992,19 @@
                 "onlyFor": null
               }
             ]
+          },
+          {
+            "name": "ניתן להסיר",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "ללא שמנת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
           }
         ]
       },
@@ -19006,7 +19013,7 @@
         "price": 39.00,
         "active": true,
         "soldOut": false,
-        "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, פסטו, חריף",
+        "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "groups": [
           {
             "name": "תוספות",
@@ -19026,37 +19033,51 @@
                 "onlyFor": null
               },
               {
-                "name": "חריף",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "מוצרלה",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
                 "name": "פטריות",
                 "price": 6.00,
                 "active": true,
                 "onlyFor": null
               },
               {
-                "name": "פסטו",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "שמנת",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
                 "name": "תירס",
+                "price": 6.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
+          },
+          {
+            "name": "ניתן להסיר",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "ללא מוצרלה",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
+                "name": "ללא שמנת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
+          },
+          {
+            "name": "מלוחים",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "בולגרית",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
+                "name": "חריף",
                 "price": 6.00,
                 "active": true,
                 "onlyFor": null
@@ -19375,33 +19396,6 @@
         "soldOut": false,
         "description": null,
         "groups": []
-      }
-    ]
-  },
-  {
-    "category": "קטגוריה אייפד",
-    "products": [
-      {
-        "name": "מנת אייפד",
-        "price": 25.00,
-        "active": true,
-        "soldOut": false,
-        "description": null,
-        "groups": [
-          {
-            "name": "טופינגז",
-            "required": false,
-            "freeOnlyForDineIn": false,
-            "items": [
-              {
-                "name": "אגוזי לוז מסוכרים",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              }
-            ]
-          }
-        ]
       }
     ]
   }
