@@ -19007,10 +19007,17 @@
             ]
           },
           {
-            "name": "טופינגז",
-            "required": false,
+            "name": "מלוחים",
+            "required": true,
             "freeOnlyForDineIn": false,
-            "items": []
+            "items": [
+              {
+                "name": "בולגרית",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
           }
         ]
       },
@@ -19085,10 +19092,17 @@
             ]
           },
           {
-            "name": "טופינגז",
-            "required": false,
+            "name": "מלוחים",
+            "required": true,
             "freeOnlyForDineIn": false,
-            "items": []
+            "items": [
+              {
+                "name": "בולגרית",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
           }
         ]
       }
