@@ -19004,6 +19004,12 @@
                 "onlyFor": null
               },
               {
+                "name": "רוטב פיצה",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "רוטב שום",
                 "price": 0.00,
                 "active": true,
