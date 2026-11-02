@@ -18950,14 +18950,8 @@
             "freeOnlyForDineIn": false,
             "items": [
               {
-                "name": "בדיקה גבינה",
-                "price": 4.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "בדיקה זעתר",
-                "price": 3.00,
+                "name": "בולגרית",
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null
               },
@@ -19006,13 +19000,13 @@
             ]
           },
           {
-            "name": "רטבים",
+            "name": "ניתן להסיר",
             "required": false,
             "freeOnlyForDineIn": false,
             "items": [
               {
-                "name": "רוטב בדיקה",
-                "price": 2.00,
+                "name": "ללא שמנת",
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null
               }
@@ -19025,13 +19019,19 @@
         "price": 39.00,
         "active": true,
         "soldOut": false,
-        "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, פסטו, חריף",
+        "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "groups": [
           {
             "name": "תוספות",
             "required": false,
             "freeOnlyForDineIn": false,
             "items": [
+              {
+                "name": "בולגרית",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
               {
                 "name": "בצל ירוק",
                 "price": 6.00,
@@ -19051,25 +19051,7 @@
                 "onlyFor": null
               },
               {
-                "name": "מוצרלה",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
                 "name": "פטריות",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "פסטו",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "שמנת",
                 "price": 6.00,
                 "active": true,
                 "onlyFor": null
@@ -19077,6 +19059,25 @@
               {
                 "name": "תירס",
                 "price": 6.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
+          },
+          {
+            "name": "ניתן להסיר",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "ללא מוצרלה",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
+                "name": "ללא שמנת",
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null
               }
@@ -19285,6 +19286,34 @@
         "soldOut": false,
         "description": "שוקולד וחלב חם עם מרשמלו",
         "groups": []
+      },
+      {
+        "name": "שוקו קטן",
+        "price": 14.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": [
+          {
+            "name": "גודל",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "items": [
+              {
+                "name": "גדול",
+                "price": 5.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
+                "name": "קטן",
+                "price": 14.00,
+                "active": true,
+                "onlyFor": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "תה נענע",
