@@ -19010,14 +19010,7 @@
             "name": "מלוחים",
             "required": true,
             "freeOnlyForDineIn": false,
-            "items": [
-              {
-                "name": "בולגרית",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null
-              }
-            ]
+            "items": []
           }
         ]
       },
@@ -19095,14 +19088,7 @@
             "name": "מלוחים",
             "required": true,
             "freeOnlyForDineIn": false,
-            "items": [
-              {
-                "name": "בולגרית",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null
-              }
-            ]
+            "items": []
           }
         ]
       }
