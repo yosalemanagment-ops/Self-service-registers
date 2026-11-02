@@ -18950,6 +18950,12 @@
             "freeOnlyForDineIn": false,
             "items": [
               {
+                "name": "אלף האיים",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "בולגרית",
                 "price": 0.00,
                 "active": true,
