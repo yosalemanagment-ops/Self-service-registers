@@ -19193,6 +19193,14 @@
             ]
           }
         ]
+      },
+      {
+        "name": "שוקופלת",
+        "price": 22.00,
+        "active": true,
+        "soldOut": false,
+        "description": "שוקו מקופלות חלב חם וקצפת מעל",
+        "groups": []
       }
     ]
   },
