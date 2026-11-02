@@ -18974,12 +18974,6 @@
                 "onlyFor": null
               },
               {
-                "name": "זיתים",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
                 "name": "זיתים שחורים",
                 "price": 0.00,
                 "active": true,
@@ -19064,12 +19058,6 @@
               },
               {
                 "name": "בצל ירוק",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null
-              },
-              {
-                "name": "זיתים",
                 "price": 6.00,
                 "active": true,
                 "onlyFor": null
