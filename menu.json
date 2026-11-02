@@ -19292,6 +19292,14 @@
         ]
       },
       {
+        "name": "קפה שחור",
+        "price": 10.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "groups": []
+      },
+      {
         "name": "קפוצ'ינו",
         "price": 14.00,
         "active": true,
