@@ -18968,6 +18968,12 @@
                 "onlyFor": null
               },
               {
+                "name": "גבינת שמנת שום שמיר",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null
+              },
+              {
                 "name": "זיתים",
                 "price": 6.00,
                 "active": true,
