@@ -18873,26 +18873,6 @@
         ]
       },
       {
-        "name": "מילקשייק לוטוס",
-        "price": 32.00,
-        "active": true,
-        "soldOut": false,
-        "description": "שבבי לוטוס, שוקולד לבן, רוטב לוטוס",
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      },
-      {
-        "name": "מילקשייק מקופלת",
-        "price": 28.00,
-        "active": true,
-        "soldOut": false,
-        "description": "גלידה וניל אמריקאית, שוקולד חלב, שוקולד לבן, שבבי מקופלת שוקולד לבן, שבבי מקופלת שוקולד חלב",
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      },
-      {
         "name": "פנקייק דובאי",
         "price": 46.00,
         "active": true,
@@ -22575,6 +22555,16 @@
         "active": true,
         "soldOut": false,
         "description": "שבבי לוטוס, שוקולד לבן, רוטב לוטוס",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
+        "name": "מילקשייק מקופלת",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": "גלידה וניל אמריקאית, שוקולד חלב, שוקולד לבן, שבבי מקופלת שוקולד לבן, שבבי מקופלת שוקולד חלב",
         "allergens": null,
         "mayContain": null,
         "groups": []
