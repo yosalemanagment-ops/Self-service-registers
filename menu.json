@@ -18873,16 +18873,6 @@
         ]
       },
       {
-        "name": "מילקשייק",
-        "price": 28.00,
-        "active": true,
-        "soldOut": false,
-        "description": null,
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      },
-      {
         "name": "מילקשייק לוטוס",
         "price": 32.00,
         "active": true,
