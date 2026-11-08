@@ -22500,6 +22500,16 @@
         "groups": []
       },
       {
+        "name": "משקה אנרגיה בלו דיי",
+        "price": 8.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
         "name": "משקה אנרגיה XL",
         "price": 8.00,
         "active": true,
