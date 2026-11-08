@@ -18875,7 +18875,7 @@
       {
         "name": "מילקשייק",
         "price": 28.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": null,
         "allergens": null,
@@ -22645,6 +22645,16 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, שוקולד לבן, ריבת חלב, קורנפלקס בציפוי שוקולד לבן",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
+        "name": "מילקשייק שוקולד",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": "מילקשייק בטעם שוקולד",
         "allergens": null,
         "mayContain": null,
         "groups": []
