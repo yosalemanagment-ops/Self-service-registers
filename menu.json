@@ -22590,6 +22590,16 @@
     "category": "מילקשייק",
     "products": [
       {
+        "name": "מילקשייק לוטוס",
+        "price": 32.00,
+        "active": true,
+        "soldOut": false,
+        "description": "שבבי לוטוס, שוקולד לבן, רוטב לוטוס",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
         "name": "מילקשייק מקופלת",
         "price": 28.00,
         "active": true,
