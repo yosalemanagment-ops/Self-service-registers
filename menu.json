@@ -22608,6 +22608,16 @@
         "allergens": null,
         "mayContain": null,
         "groups": []
+      },
+      {
+        "name": "מילקשייק תות",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": "גלידה וניל אמריקאית, תותים, שוקולד לבן, רוטב תותים",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
       }
     ]
   }
