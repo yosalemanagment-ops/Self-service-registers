@@ -22442,21 +22442,6 @@
     ]
   },
   {
-    "category": "מילשייק",
-    "products": [
-      {
-        "name": "מילקשייק אוראו",
-        "price": 28.00,
-        "active": true,
-        "soldOut": false,
-        "description": "גלידה וניל אמריקאית, רוטב הרשיז, שבבי אוראו, עוגיות אוראו",
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      }
-    ]
-  },
-  {
     "category": "שתיה קלה",
     "products": [
       {
