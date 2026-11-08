@@ -21817,9 +21817,9 @@
       {
         "name": "בטטה מדורה",
         "price": 41.00,
-        "active": true,
+        "active": false,
         "soldOut": false,
-        "description": "בטטה מתוקה מדורה עם תוספות לבחירה",
+        "description": "בטטה מתוקה מדורה מוקרם עם תוספות לבחירה",
         "allergens": null,
         "mayContain": null,
         "groups": [
@@ -22024,7 +22024,7 @@
       {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": true,
+        "active": false,
         "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
@@ -22521,6 +22521,16 @@
       },
       {
         "name": "ענבים קטן",
+        "price": 12.00,
+        "active": false,
+        "soldOut": false,
+        "description": null,
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
+        "name": "פחית ספרייט",
         "price": 12.00,
         "active": true,
         "soldOut": false,
