@@ -22580,16 +22580,6 @@
         "groups": []
       },
       {
-        "name": "מילקשייק ריבת חלב",
-        "price": 28.00,
-        "active": true,
-        "soldOut": false,
-        "description": "גלידה וניל אמריקאית, שוקולד לבן, ריבת חלב, קורנפלקס בציפוי שוקולד לבן",
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      },
-      {
         "name": "מילקשייק שוקולד",
         "price": 28.00,
         "active": true,
