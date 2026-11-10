@@ -21981,7 +21981,7 @@
       {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": true,
+        "active": false,
         "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
@@ -22551,16 +22551,6 @@
     "ticketNote": null,
     "products": [
       {
-        "name": "מילקשייק",
-        "price": 28.00,
-        "active": true,
-        "soldOut": false,
-        "description": "מילקשייק פיסטוק",
-        "allergens": null,
-        "mayContain": null,
-        "groups": []
-      },
-      {
         "name": "מילקשייק לוטוס",
         "price": 32.00,
         "active": true,
@@ -22576,6 +22566,26 @@
         "active": true,
         "soldOut": false,
         "description": "גלידה וניל אמריקאית, שוקולד חלב, שוקולד לבן, שבבי מקופלת שוקולד לבן, שבבי מקופלת שוקולד חלב",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
+        "name": "מילקשייק מקופלת",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
+        "name": "מילקשייק פיסטוק",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": "מילקשייק פיסטוק",
         "allergens": null,
         "mayContain": null,
         "groups": []
