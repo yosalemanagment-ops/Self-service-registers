@@ -1,6 +1,7 @@
 [
   {
     "category": "קרפים",
+    "ticketNote": null,
     "products": [
       {
         "name": "קרפ אוראו",
@@ -5524,6 +5525,7 @@
   },
   {
     "category": "וופל בלגי",
+    "ticketNote": null,
     "products": [
       {
         "name": "וופל אוראו",
@@ -11089,6 +11091,7 @@
   },
   {
     "category": "פנקייקים",
+    "ticketNote": null,
     "products": [
       {
         "name": "כדורי פנקייק דובאי",
@@ -18125,6 +18128,7 @@
   },
   {
     "category": "המיוחדים שלנו",
+    "ticketNote": null,
     "products": [
       {
         "name": "וופל דובאי",
@@ -20719,6 +20723,7 @@
   },
   {
     "category": "פרווה",
+    "ticketNote": "פרווה",
     "products": [
       {
         "name": "פנקייק בהרכבה",
@@ -21018,6 +21023,7 @@
   },
   {
     "category": "גלידות ויוגורט",
+    "ticketNote": null,
     "products": [
       {
         "name": "גלידה 0.5 קילו",
@@ -21763,6 +21769,7 @@
   },
   {
     "category": "מלוחים",
+    "ticketNote": null,
     "products": [
       {
         "name": "בטטה מדורה",
@@ -21974,7 +21981,7 @@
       {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
@@ -22065,6 +22072,7 @@
   },
   {
     "category": "אייסים",
+    "ticketNote": null,
     "products": [
       {
         "name": "אייס עם גלידה גדול",
@@ -22193,6 +22201,7 @@
   },
   {
     "category": "שתייה חמה",
+    "ticketNote": null,
     "products": [
       {
         "name": "אספרסו",
@@ -22393,6 +22402,7 @@
   },
   {
     "category": "שתיה קלה",
+    "ticketNote": null,
     "products": [
       {
         "name": "מים בטעם אפרסק",
@@ -22538,7 +22548,18 @@
   },
   {
     "category": "מילקשייק",
+    "ticketNote": null,
     "products": [
+      {
+        "name": "מילקשייק",
+        "price": 28.00,
+        "active": true,
+        "soldOut": false,
+        "description": "מילקשייק פיסטוק",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
       {
         "name": "מילקשייק לוטוס",
         "price": 32.00,
