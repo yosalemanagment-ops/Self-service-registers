@@ -21981,8 +21981,8 @@
       {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": false,
-        "soldOut": false,
+        "active": true,
+        "soldOut": true,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
         "mayContain": null,
@@ -22293,6 +22293,46 @@
               },
               {
                 "name": "קצר",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "נס על חלב",
+        "price": 14.00,
+        "active": true,
+        "soldOut": false,
+        "description": null,
+        "allergens": null,
+        "mayContain": null,
+        "groups": [
+          {
+            "name": "גודל",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בינוני",
+                "price": 2.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "גדול",
+                "price": 5.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "קטן",
                 "price": 0.00,
                 "active": true,
                 "onlyFor": null,
