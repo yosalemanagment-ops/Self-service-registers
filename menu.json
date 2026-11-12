@@ -332,7 +332,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -727,7 +727,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -1057,7 +1057,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -1444,7 +1444,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -1810,7 +1810,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -2106,7 +2106,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -2563,7 +2563,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -2922,7 +2922,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -3281,7 +3281,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -3654,7 +3654,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -4020,7 +4020,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -4400,7 +4400,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -4759,7 +4759,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -5125,7 +5125,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -5484,7 +5484,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -5856,7 +5856,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -6215,7 +6215,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -6602,7 +6602,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -6968,7 +6968,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -7264,7 +7264,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -7721,7 +7721,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -8080,7 +8080,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -8446,7 +8446,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -8840,7 +8840,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -9185,7 +9185,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -9565,7 +9565,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -9938,7 +9938,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -10311,7 +10311,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -10670,7 +10670,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -11043,7 +11043,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -11345,7 +11345,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -11795,7 +11795,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -12190,7 +12190,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -12520,7 +12520,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -12816,7 +12816,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -13196,7 +13196,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -13653,7 +13653,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -14019,7 +14019,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -14407,7 +14407,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -14737,7 +14737,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -15131,7 +15131,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -15490,7 +15490,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -15863,7 +15863,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -16236,7 +16236,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -16595,7 +16595,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -16968,7 +16968,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -17341,7 +17341,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -17714,7 +17714,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -18073,7 +18073,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -18382,7 +18382,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -18755,7 +18755,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -19128,7 +19128,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -19480,7 +19480,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -19704,7 +19704,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -20225,7 +20225,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -20591,7 +20591,7 @@
               {
                 "name": "קצפת",
                 "price": 10.00,
-                "active": false,
+                "active": true,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -20725,6 +20725,16 @@
     "category": "פרווה",
     "ticketNote": "פרווה",
     "products": [
+      {
+        "name": "וופל בלגי",
+        "price": 40.00,
+        "active": true,
+        "soldOut": false,
+        "description": "וופל בלגי להרכבה אישית - בחרו את הזיגוג והתוספות שלכם.",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
       {
         "name": "פנקייק בהרכבה",
         "price": 40.00,
@@ -21774,7 +21784,7 @@
       {
         "name": "בטטה מדורה",
         "price": 41.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": "בטטה מתוקה מדורה מוקרם עם תוספות לבחירה",
         "allergens": null,
@@ -21982,7 +21992,7 @@
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
         "mayContain": null,
@@ -22409,7 +22419,7 @@
               },
               {
                 "name": "קטן",
-                "price": 14.00,
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null,
                 "allergens": null
