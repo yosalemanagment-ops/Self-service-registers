@@ -20726,104 +20726,6 @@
     "ticketNote": "פרווה",
     "products": [
       {
-        "name": "וופל בלגי בהרכבה",
-        "price": 40.00,
-        "active": true,
-        "soldOut": false,
-        "description": "וופל בלגי להרכבה אישית - בחרו את הזיגוג והתוספות שלכם.",
-        "allergens": null,
-        "mayContain": null,
-        "groups": [
-          {
-            "name": "תוספות",
-            "required": false,
-            "freeOnlyForDineIn": false,
-            "freeChoiceOffered": true,
-            "items": [
-              {
-                "name": "דובוני גומי",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "שבבי אוראו",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "שבבי לוטוס",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              }
-            ]
-          },
-          {
-            "name": "רטבים",
-            "required": false,
-            "freeOnlyForDineIn": false,
-            "freeChoiceOffered": true,
-            "items": [
-              {
-                "name": "רוטב לוטוס",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "רוטב מייפל",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "רוטב שוקולד פררו רושה",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "רוטב שוקולד רפאלו",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              }
-            ]
-          },
-          {
-            "name": "בחרו זיגוג בסיס",
-            "required": true,
-            "freeOnlyForDineIn": false,
-            "freeChoiceOffered": true,
-            "items": [
-              {
-                "name": "רוטב שוקולד לבן",
-                "price": 0.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
-                "name": "רוטב שוקולד פסק זמן",
-                "price": 0.00,
-                "active": false,
-                "onlyFor": null,
-                "allergens": null
-              }
-            ]
-          }
-        ]
-      },
-      {
         "name": "פנקייק בהרכבה",
         "price": 40.00,
         "active": true,
@@ -22089,7 +21991,7 @@
         "price": 39.00,
         "active": true,
         "soldOut": false,
-        "description": "פיצה איטלקית מבית דונה איטליה",
+        "description": "פיצה זוגית  איטלקית מבית דונה איטליה",
         "allergens": null,
         "mayContain": null,
         "groups": []
