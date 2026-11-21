@@ -98,7 +98,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -261,7 +261,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -282,21 +282,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -493,7 +493,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -656,7 +656,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -677,21 +677,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -830,7 +830,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -986,7 +986,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1007,21 +1007,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1203,7 +1203,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1373,7 +1373,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1394,21 +1394,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1583,7 +1583,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1746,7 +1746,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -1760,21 +1760,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2035,7 +2035,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2056,21 +2056,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2191,7 +2191,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2322,7 +2322,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2492,7 +2492,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2513,21 +2513,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2688,7 +2688,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2851,7 +2851,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -2872,21 +2872,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3061,7 +3061,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3210,7 +3210,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3231,21 +3231,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3420,7 +3420,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3583,7 +3583,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3604,21 +3604,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3786,7 +3786,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3949,7 +3949,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -3970,21 +3970,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4166,7 +4166,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4329,7 +4329,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4350,21 +4350,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4525,7 +4525,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4688,7 +4688,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4709,21 +4709,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -4891,7 +4891,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5054,7 +5054,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5075,21 +5075,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5257,7 +5257,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5413,7 +5413,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5434,21 +5434,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5622,7 +5622,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5785,7 +5785,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5806,21 +5806,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -5988,7 +5988,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6144,7 +6144,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6165,21 +6165,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6361,7 +6361,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6531,7 +6531,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6552,21 +6552,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6734,7 +6734,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6897,7 +6897,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -6918,21 +6918,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7193,7 +7193,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7214,21 +7214,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7349,7 +7349,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7480,7 +7480,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7650,7 +7650,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7671,21 +7671,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -7846,7 +7846,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8009,7 +8009,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8030,21 +8030,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8226,7 +8226,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8375,7 +8375,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8396,21 +8396,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8599,7 +8599,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8769,7 +8769,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8790,21 +8790,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -8965,7 +8965,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9114,7 +9114,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9135,21 +9135,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9331,7 +9331,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9494,7 +9494,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9515,21 +9515,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9711,7 +9711,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9867,7 +9867,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -9888,21 +9888,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10077,7 +10077,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10240,7 +10240,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10261,21 +10261,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10436,7 +10436,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10599,7 +10599,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10620,21 +10620,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10816,7 +10816,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10972,7 +10972,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -10993,21 +10993,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11274,7 +11274,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11295,21 +11295,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11430,7 +11430,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11561,7 +11561,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11724,7 +11724,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11745,21 +11745,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11956,7 +11956,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12119,7 +12119,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12140,21 +12140,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12293,7 +12293,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12449,7 +12449,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12470,21 +12470,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12745,7 +12745,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12766,21 +12766,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -12908,7 +12908,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13125,7 +13125,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13146,21 +13146,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13281,7 +13281,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13412,7 +13412,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13582,7 +13582,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13603,21 +13603,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13785,7 +13785,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13948,7 +13948,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -13969,21 +13969,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14173,7 +14173,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14336,7 +14336,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14357,21 +14357,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14517,7 +14517,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14666,7 +14666,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14687,21 +14687,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -14890,7 +14890,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15060,7 +15060,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15081,21 +15081,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15256,7 +15256,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15419,7 +15419,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15440,21 +15440,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15636,7 +15636,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15792,7 +15792,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -15813,21 +15813,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16002,7 +16002,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16165,7 +16165,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16186,21 +16186,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16361,7 +16361,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16524,7 +16524,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16545,21 +16545,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16741,7 +16741,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16897,7 +16897,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -16918,21 +16918,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17107,7 +17107,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17270,7 +17270,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17291,21 +17291,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17480,7 +17480,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17643,7 +17643,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17664,21 +17664,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -17853,7 +17853,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18002,7 +18002,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18023,21 +18023,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18311,7 +18311,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18332,21 +18332,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18467,7 +18467,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18684,7 +18684,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18705,21 +18705,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -18840,7 +18840,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19057,7 +19057,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19078,21 +19078,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19213,7 +19213,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19409,7 +19409,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19430,21 +19430,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19579,7 +19579,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19633,7 +19633,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19654,21 +19654,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -19810,7 +19810,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20154,7 +20154,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20175,21 +20175,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20310,7 +20310,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20520,7 +20520,7 @@
               {
                 "name": "אבטיח",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20541,21 +20541,21 @@
               {
                 "name": "מלון",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "מנגו",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 6.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20683,7 +20683,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 5.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -20726,14 +20726,102 @@
     "ticketNote": "פרווה",
     "products": [
       {
-        "name": "וופל בלגי",
+        "name": "וופל בלגי בהרכבה",
         "price": 40.00,
         "active": true,
         "soldOut": false,
         "description": "וופל בלגי להרכבה אישית - בחרו את הזיגוג והתוספות שלכם.",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "תוספות",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "דובוני גומי",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "שבבי אוראו",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "שבבי לוטוס",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          },
+          {
+            "name": "רטבים",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "רוטב לוטוס",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "רוטב מייפל",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "רוטב שוקולד פררו רושה",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "רוטב שוקולד רפאלו",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          },
+          {
+            "name": "בחרו זיגוג בסיס",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "רוטב שוקולד לבן",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "רוטב שוקולד פסק זמן",
+                "price": 0.00,
+                "active": false,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "פנקייק בהרכבה",
@@ -20760,7 +20848,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -20858,7 +20946,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -20956,7 +21044,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -21095,7 +21183,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21242,7 +21330,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21374,7 +21462,7 @@
               {
                 "name": "אבטיח",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21395,14 +21483,14 @@
               {
                 "name": "מלון",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21494,7 +21582,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21633,7 +21721,7 @@
               {
                 "name": "אבטיח",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21654,14 +21742,14 @@
               {
                 "name": "מלון",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
               {
                 "name": "קיווי",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21746,7 +21834,7 @@
               {
                 "name": "רוטב שוקולד פסק זמן",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -21832,13 +21920,6 @@
                 "allergens": null
               },
               {
-                "name": "מוצרלה",
-                "price": 6.00,
-                "active": true,
-                "onlyFor": null,
-                "allergens": null
-              },
-              {
                 "name": "פטריות",
                 "price": 6.00,
                 "active": true,
@@ -21846,15 +21927,30 @@
                 "allergens": null
               },
               {
-                "name": "שמנת",
+                "name": "תירס",
+                "price": 6.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          },
+          {
+            "name": "ניתן להסיר",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "ללא מוצרלה",
                 "price": 0.00,
                 "active": true,
                 "onlyFor": null,
                 "allergens": null
               },
               {
-                "name": "תירס",
-                "price": 6.00,
+                "name": "ללא שמנת",
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null,
                 "allergens": null
@@ -21991,7 +22087,7 @@
       {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": true,
+        "active": false,
         "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
@@ -22128,7 +22224,7 @@
         "name": "אייס קפה גדול",
         "price": 20.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": null,
         "allergens": null,
         "mayContain": null,
@@ -22138,7 +22234,7 @@
         "name": "אייס קפה קטן",
         "price": 15.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": null,
         "allergens": null,
         "mayContain": null,
@@ -22148,7 +22244,7 @@
         "name": "גרניטה פקאן גדול",
         "price": 25.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": "אייס קפה בתוספת שבבי פקנים מסוכרים",
         "allergens": null,
         "mayContain": null,
@@ -22158,7 +22254,7 @@
         "name": "גרניטה פקאן קטן",
         "price": 20.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": "אייס קפה בתוספת שבבי פקנים מסוכרים",
         "allergens": null,
         "mayContain": null,
@@ -22200,7 +22296,7 @@
       {
         "name": "שוקופלת",
         "price": 22.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": "שוקו מקופלות חלב חם וקצפת מעל",
         "allergens": null,
@@ -22507,7 +22603,7 @@
       {
         "name": "משקה אנרגיה XL",
         "price": 8.00,
-        "active": true,
+        "active": false,
         "soldOut": false,
         "description": null,
         "allergens": null,
@@ -22588,7 +22684,7 @@
         "name": "פיוז טי",
         "price": 12.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": null,
         "allergens": null,
         "mayContain": null,
@@ -22608,7 +22704,30 @@
         "description": null,
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק לוטוס",
@@ -22618,7 +22737,30 @@
         "description": "שבבי לוטוס, שוקולד לבן, רוטב לוטוס",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק מקופלת",
@@ -22628,7 +22770,30 @@
         "description": "גלידה וניל אמריקאית, שוקולד חלב, שוקולד לבן, שבבי מקופלת שוקולד לבן, שבבי מקופלת שוקולד חלב",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק פיסטוק",
@@ -22638,7 +22803,30 @@
         "description": "מילקשייק פיסטוק",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק קפה",
@@ -22648,7 +22836,30 @@
         "description": null,
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק ריבת חלב",
@@ -22658,7 +22869,30 @@
         "description": "גלידה וניל אמריקאית, שוקולד לבן, ריבת חלב, קורנפלקס בציפוי שוקולד לבן",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק שוקולד",
@@ -22668,7 +22902,30 @@
         "description": "מילקשייק בטעם שוקולד",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "מילקשייק תות",
@@ -22678,8 +22935,36 @@
         "description": "גלידה וניל אמריקאית, תותים, שוקולד לבן, רוטב תותים",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "קצפת",
+            "required": true,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בלי קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עם קצפת",
+                "price": 0.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       }
     ]
+  },
+  {
+    "category": "פיצה",
+    "ticketNote": "פיצה",
+    "products": []
   }
 ]
