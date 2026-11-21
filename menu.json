@@ -22085,9 +22085,19 @@
         ]
       },
       {
+        "name": "פיצה",
+        "price": 39.00,
+        "active": true,
+        "soldOut": false,
+        "description": "פיצה איטלקית מבית דונה איטליה",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": "תפוח אדמה מדורה עם תוספות לבחירה: בצל ירוק, זיתים, מוצרלה, שמנת, פטריות, תירס, חריף",
         "allergens": null,
