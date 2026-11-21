@@ -387,7 +387,7 @@
               {
                 "name": "רוטב שוקולד חלב",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
@@ -11850,7 +11850,7 @@
               {
                 "name": "רוטב שוקולד חלב",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               }
@@ -14067,7 +14067,7 @@
               {
                 "name": "רוטב שוקולד חלב",
                 "price": 0.00,
-                "active": true,
+                "active": false,
                 "onlyFor": null,
                 "allergens": null
               },
