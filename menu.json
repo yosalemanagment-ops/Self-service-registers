@@ -22184,7 +22184,7 @@
         "name": "אייס עם גלידה גדול",
         "price": 25.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": "אייס קפה בתוספת גלידה אמריקאית בטעם וניל",
         "allergens": null,
         "mayContain": null,
@@ -22194,7 +22194,7 @@
         "name": "אייס עם גלידה קטן",
         "price": 20.00,
         "active": true,
-        "soldOut": false,
+        "soldOut": true,
         "description": "אייס קפה בתוספת גלידה אמריקאית בטעם וניל",
         "allergens": null,
         "mayContain": null,
@@ -22961,10 +22961,5 @@
         ]
       }
     ]
-  },
-  {
-    "category": "פיצה",
-    "ticketNote": "פיצה",
-    "products": []
   }
 ]
