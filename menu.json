@@ -22095,6 +22095,16 @@
         "groups": []
       },
       {
+        "name": "פיצה ללא גלוטן",
+        "price": 39.00,
+        "active": true,
+        "soldOut": false,
+        "description": "פיצה ללא גלוטן מבית דונה איטליה",
+        "allergens": null,
+        "mayContain": null,
+        "groups": []
+      },
+      {
         "name": "תפוח אדמה מדורה",
         "price": 39.00,
         "active": true,
