@@ -21141,7 +21141,7 @@
               },
               {
                 "name": "קטן",
-                "price": 12.00,
+                "price": 0.00,
                 "active": true,
                 "onlyFor": null,
                 "allergens": null
@@ -21773,7 +21773,7 @@
     "products": [
       {
         "name": "בטטה מדורה",
-        "price": 41.00,
+        "price": 39.00,
         "active": true,
         "soldOut": false,
         "description": "בטטה מתוקה מדורה מוקרם עם תוספות לבחירה",
@@ -21994,7 +21994,58 @@
         "description": "פיצה זוגית  איטלקית מבית דונה איטליה",
         "allergens": null,
         "mayContain": null,
-        "groups": []
+        "groups": [
+          {
+            "name": "תוספות",
+            "required": false,
+            "freeOnlyForDineIn": false,
+            "freeChoiceOffered": true,
+            "items": [
+              {
+                "name": "בולגרית",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "זיתים ירוקים",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "זיתים שחורים",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "עגבניות שרי",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "פטריות",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              },
+              {
+                "name": "תירס",
+                "price": 3.00,
+                "active": true,
+                "onlyFor": null,
+                "allergens": null
+              }
+            ]
+          }
+        ]
       },
       {
         "name": "פיצה ללא גלוטן",
@@ -22106,7 +22157,7 @@
         "name": "אייס עם גלידה גדול",
         "price": 25.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": "אייס קפה בתוספת גלידה אמריקאית בטעם וניל",
         "allergens": null,
         "mayContain": null,
@@ -22116,7 +22167,7 @@
         "name": "אייס עם גלידה קטן",
         "price": 20.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": "אייס קפה בתוספת גלידה אמריקאית בטעם וניל",
         "allergens": null,
         "mayContain": null,
@@ -22146,7 +22197,7 @@
         "name": "אייס קפה גדול",
         "price": 20.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": null,
         "allergens": null,
         "mayContain": null,
@@ -22156,7 +22207,7 @@
         "name": "אייס קפה קטן",
         "price": 15.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": null,
         "allergens": null,
         "mayContain": null,
@@ -22166,7 +22217,7 @@
         "name": "גרניטה פקאן גדול",
         "price": 25.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": "אייס קפה בתוספת שבבי פקנים מסוכרים",
         "allergens": null,
         "mayContain": null,
@@ -22176,7 +22227,7 @@
         "name": "גרניטה פקאן קטן",
         "price": 20.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": "אייס קפה בתוספת שבבי פקנים מסוכרים",
         "allergens": null,
         "mayContain": null,
@@ -22525,7 +22576,7 @@
       {
         "name": "משקה אנרגיה XL",
         "price": 8.00,
-        "active": false,
+        "active": true,
         "soldOut": false,
         "description": null,
         "allergens": null,
@@ -22606,7 +22657,7 @@
         "name": "פיוז טי",
         "price": 12.00,
         "active": true,
-        "soldOut": true,
+        "soldOut": false,
         "description": null,
         "allergens": null,
         "mayContain": null,
